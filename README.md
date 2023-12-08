@@ -1,10 +1,6 @@
-# Привет, меня зовут Ирина!
+# Hi, I'm Irina
 
----
-
-### Обо мне:
-
-Hi, I'm Irina, and I'm a QA Engineer (web, front + back). In my free time, I study Python and JS, improve my skills in testing, work in charity projects (as a tester)
+I'm a QA Engineer (web, front + back). In my free time, I study Python and JS, improve my skills in testing, work in charity projects (as a tester)
 
 - 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@irinakolotilinaQA-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irinakolotilinaQA/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.ikolotilina85@gmail.com)
 
