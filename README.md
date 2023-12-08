@@ -4,13 +4,13 @@
 
 ### Обо мне:
 
-Я тестировщик (функциональное тестирование). Основной домен - тестирование веб-приложений (front + back). В свободное время изучаю Python и JS, повышаю квалификацию в тестировании, работаю в благотворительных проектах (как тестировщик)
+Hi, I'm Irina, and I'm a QA Engineer (web, front + back). In my free time, I study Python and JS, improve my skills in testing, work in charity projects (as a tester)
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@irinakolotilinaQA-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irinakolotilinaQA/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.ikolotilina85@gmail.com)
+- 📫 Contact me: [![LinkedIn Badge](https://img.shields.io/badge/-@irinakolotilinaQA-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/irinakolotilinaQA/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.ikolotilina85@gmail.com)
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social network:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/irinakolotilinaQA/" target="_blank">
@@ -23,7 +23,7 @@
 
 ---
 
-### 📁 Инструменты, которые я использую в работе:
+### 📁 The tools I use in my work:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -47,7 +47,7 @@
   
 ---
 
-###  ✏️ Тестовые артефакты, собранные в рамках обучения:
+###  ✏️ Test artifacts collected as part of the training:
 
 <div>
   <a href="https://github.com/IKolotilina/BASH "> bash</a>  
@@ -61,7 +61,7 @@
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Completed the courses:
 
 <div>
 11/2022 - 02/2023 <a href="https://www.software-testing.ru/edu/schedule/56" target="_blank">
